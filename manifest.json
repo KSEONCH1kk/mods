@@ -4,7 +4,7 @@
   "loader": "fabric",
   "mods": [
     {
-      "name": "Zona",
+      "name": "m1",
       "fileName": "zona-1.0-SNAPSHOT.jar",
       "url": "https://github.com/KSEONCH1kk/mods/raw/refs/heads/main/zona-1.0-SNAPSHOT.jar",
       "sha256": "efdf716cd74dddf8a3b649c91061dbaa023bd970340320fff994e7805e768c2d",
